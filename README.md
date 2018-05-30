@@ -1,2 +1,2 @@
 # Robo_Friends
-Robo_Friends Project,  JS, Node, NPM, React, Redux
+Robo_Friends Project,  JS, React, Redux, NodeJS, Express. 
